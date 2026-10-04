@@ -40,6 +40,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 Frontend: Next.js 15 (App Router) + TypeScript + Tailwind CSS
 Database: Supabase (PostgreSQL)
 Auth: Supabase Auth (Google login)
-AI: OpenAI API (summarize standups)
+AI: GROQ API (summarize standups)
 Email: Resend (send daily summary emails)
-Deployment: Vercel -->
+Deployment: Vercel
