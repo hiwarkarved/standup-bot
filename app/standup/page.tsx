@@ -73,6 +73,9 @@ export default function StandupPage() {
 						<p>{summary}</p>
 					</div>
 				)}
+				<a href="/dashboard" className="text-blue-600 underline">
+				View past standups →
+			</a>
 			</main>
 		);
 	}
